@@ -1,3 +1,2 @@
 return function()
-    warn("ЧМАЛЯ КУКУ")
 end
